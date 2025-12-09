@@ -2,10 +2,12 @@
 
 ### 💻 Languages
 - TypeScript  
-- Python  
+- Python
+- Dart
 
 ### 🧰 Frameworks 
-- **React Native（Expo）** – スマホアプリ開発  
+- **React Native（Expo）** – スマホアプリ開発
+- **Flutter**
 - **NestJS** – TypeScript バックエンド  
 - **Django** – Python バックエンド  
 - **React / Next.js** – Web フロントエンド  
