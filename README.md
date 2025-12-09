@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Skills & Strengths
+## 🚀 Skills 
 
 ### 💻 Languages
 - **TypeScript / Python / Dart**  
