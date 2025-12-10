@@ -1,31 +1,24 @@
-## 👋 About Me
+## Hi! I'm Kosei 👋
 
-台湾の四年制大学でコンピューターサイエンスを専攻している 4 年生（22 歳）です。  
-台湾在住で、日常的に **iOS アプリ・Web アプリの個人開発**に取り組んでいます。
+I've been learning programming simply because I enjoy making things.  
+But recently, I focused too much on AI, productivity, and monetization —  
+and I realized that coding was becoming less fun than before.
 
-特に、**自分で企画 → 設計 → 実装 → 運用まで完結させる力（自走力）** と  
-**継続して技術を磨き続ける姿勢**を大切にしています。
+So I decided to return to what I really love: **enjoying programming**.
 
----
+I'm now exploring the world of **Open Source**.  
+I want to contribute — even in small ways — to the engineering community  
+that has helped me grow so much.
 
-## 🚀 Skills 
+I'm still a student and still learning,  
+but I hope to develop by collaborating with others  
+and by writing code that becomes useful to someone, somewhere.
 
-### 💻 Languages
-- **TypeScript / Python / Dart**  
-  → 個人開発や学内プロジェクトで実務レベルのアプリ・API を継続的に制作。  
+If you want to talk or ask something,  
+**feel free to open an issue**.  
+I'm always happy to connect with other developers!
 
-### 🧰 Frameworks
-- **React Native（Expo） / Flutter**  
-  → スマホアプリのプロトタイピングが得意。UI 実装やデバイス API の活用経験あり。
-- **React / Next.js**  
-  → 小規模サービスのフロント構築、API 連携、SSR の基本的な理解。
-- **NestJS / Django**  
-  → REST API 開発、認証、DB 設計などバックエンド全体を一通り構築可能。
 
-### 🗄️ BaaS / Infrastructure
-- **Supabase / Firebase**
-
----
 
 
 <!--
